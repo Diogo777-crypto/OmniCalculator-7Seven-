@@ -1,0 +1,7 @@
+{
+  "name": "OmniCalc Advanced",
+  "description": "Uma calculadora avançada e altamente personalizável com suporte a múltiplos idiomas, temas coloridos e um assistente matemático inteligente alimentado por IA.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
